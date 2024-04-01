@@ -4,5 +4,5 @@
       <img 
         alt="Chat on WhatsApp" 
         src="WhatsAppButtonGreenLarge.png"/>
-  <a/>
+  </a>
 </html>
